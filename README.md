@@ -1,2 +1,1 @@
-# Django3-Tutorial
- 
+# IT394-Harris-Assignments
